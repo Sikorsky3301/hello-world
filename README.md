@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+hi everyone
+ 
+ currently i am learning Angular.
